@@ -13,3 +13,8 @@ public class App {
 
     }
 }
+
+// I ran out of time to implement Type Safety :(
+// My plan was to implement an Enum called Move to reduce the reliance on strings,
+// and would repeatedly ask for another move until the user inputs something
+// which satisfies what we're looking for!
